@@ -1,1 +1,1 @@
-eclipse/centos_jdk8
+tomcat:9.0.93-jre8
