@@ -1,1 +1,1 @@
-circleci/jdk8:0.1.1
+eclipse/centos_jdk8
