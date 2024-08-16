@@ -1,1 +1,1 @@
-tomcat
+jdk8
