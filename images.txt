@@ -1,1 +1,1 @@
-amte/nacos
+nacos
